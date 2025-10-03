@@ -1,0 +1,18 @@
+# Generated diagrams will be added separately
+generated-diagrams/
+
+# CDK specific ignores
+cdk/node_modules/
+cdk/cdk.out/
+
+# Frontend specific ignores  
+frontend/node_modules/
+
+# General ignores
+.DS_Store
+*.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
